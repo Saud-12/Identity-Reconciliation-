@@ -9,7 +9,7 @@ The Identity Reconciliation service helps track users even when they use differe
 Design an API endpoint `/identify` that accepts a JSON payload containing `email` and/or `phoneNumber`, and returns a consolidated contact response linking all associated identities.
 
 ## Identity-Reconciliation Backend Live link
-https://identity-reconciliation-niu7.onrender.com/api/v1/swagger-ui/index.html#/
+https://identity-reconciliation-u1i8.onrender.com/api/v1/swagger-ui/index.html#/
 
 ### API Specification
 ### Endpoint
